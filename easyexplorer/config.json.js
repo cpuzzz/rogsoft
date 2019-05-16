@@ -1,9 +1,9 @@
 {
-"version":"1.5",
-"md5":"64e325d7ff7be3ad9df006556ec78b3f",
+"version":"1.9",
+"md5":"4a9b5a4f96b93faaf286431f61b8d486",
 "home_url":"Module_easyexplorer.asp",
-"title":"easyexplorer",
-"description":"EasyExplorer 跨设备文件同步+DLNA流媒体",
+"title":"易有云",
+"description":"易有云 （EasyExplorer） 跨平台文件同步",
 "changelog":"",
-"build_date":"2018-12-09_22:15:34"
+"build_date":"2019-04-28_17:50:23"
 }

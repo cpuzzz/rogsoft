@@ -56,15 +56,15 @@
             "version": "1.0"
         }, 
         {
-            "build_date": "2018-12-09_22:15:34", 
+            "build_date": "2019-04-28_17:50:23", 
             "changelog": "", 
-            "description": "EasyExplorer 跨设备文件同步+DLNA流媒体", 
+            "description": "易有云 （EasyExplorer） 跨平台文件同步", 
             "home_url": "Module_easyexplorer.asp", 
-            "md5": "64e325d7ff7be3ad9df006556ec78b3f", 
+            "md5": "4a9b5a4f96b93faaf286431f61b8d486", 
             "name": "easyexplorer", 
             "tar_url": "easyexplorer/easyexplorer.tar.gz", 
-            "title": "easyexplorer", 
-            "version": "1.5"
+            "title": "易有云", 
+            "version": "1.9"
         }, 
         {
             "build_date": "2018-12-04_21:42:00", 
@@ -155,17 +155,6 @@
             "version": "2.6"
         }, 
         {
-            "build_date": "2018-12-04_21:46:24", 
-            "changelog": "", 
-            "description": "去广告，没烦恼", 
-            "home_url": "Module_koolproxy.asp", 
-            "md5": "83508a96b9d0b88e81af939fcb457baf", 
-            "name": "koolproxy", 
-            "tar_url": "koolproxy/koolproxy.tar.gz", 
-            "title": "koolproxy", 
-            "version": "3.8.4"
-        }, 
-        {
             "build_date": "2018-12-04_21:57:04", 
             "changelog": "", 
             "description": "ss-server", 
@@ -199,19 +188,19 @@
             "version": "1.3"
         }, 
         {
-            "build_date": "2019-04-13_16:29:47", 
+            "build_date": "2019-05-09_23:27:07", 
             "changelog": "", 
             "description": "让路由器运行更稳定~", 
             "home_url": "Module_swap.asp", 
-            "md5": "d0427230fdd911ff0e180b0f18cd8b67", 
+            "md5": "1fc29ae4fb1636d20fbde4dae8964e30", 
             "name": "swap", 
             "tar_url": "swap/swap.tar.gz", 
             "title": "虚拟内存", 
-            "version": "1.8"
+            "version": "1.9"
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/koolshare/koolshare.github.io/master", 
-    "md5": "5cee25eb6b1a4ff52fd2bd948095b061", 
+    "md5": "1b5cfcf249e44e7323eec796d7629e40", 
     "tar_url": "softcenter/softcenter.tar.gz", 
-    "version": "1.4.3"
+    "version": "1.4.4"
 }

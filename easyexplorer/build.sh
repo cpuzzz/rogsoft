@@ -1,10 +1,10 @@
 #!/bin/sh
 
 MODULE="easyexplorer"
-VERSION=1.5
-TITLE="easyexplorer"
-DESCRIPTION="EasyExplorer 跨设备文件同步+DLNA流媒体"
-HOME_URL=Module_easyexplorer.asp
+VERSION="1.9"
+TITLE="易有云"
+DESCRIPTION="易有云 （EasyExplorer） 跨平台文件同步"
+HOME_URL="Module_easyexplorer.asp"
 
 # Check and include base
 DIR="$( cd "$( dirname "$BASH_SOURCE[0]" )" && pwd )"
